@@ -11,6 +11,12 @@
     <content type="html"><![CDATA[<p>This is a new post.</p>]]></content>
     
     
+    <categories>
+      
+      <category>Diary</category>
+      
+    </categories>
+    
     
   </entry>
   
@@ -24,6 +30,18 @@
     <content type="html"><![CDATA[<img src="/2023/05/30/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.jpg" class=""><p>深蓝色的天空中挂着一弯明月，平静而安谧，月亮的下方，是厚厚的蓝色云层，似乎是为了接住那摇摇欲坠的月亮。</p>]]></content>
     
     
+    <categories>
+      
+      <category>Photos</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>blue, moon, sky</tag>
+      
+    </tags>
     
   </entry>
   
