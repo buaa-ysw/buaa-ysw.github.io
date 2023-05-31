@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>The Beginning</title>
+    <link href="/2023/05/31/The%20Beginning/"/>
+    <url>/2023/05/31/The%20Beginning/</url>
+    
+    <content type="html"><![CDATA[<p>这是 buaa-ysw 的第一篇原创博客文章。</p><p>网站搭建：2023&#x2F;05&#x2F;29 - 2023&#x2F;05&#x2F;30</p><p>用途：记录、分享、交流。</p><p>一些有用的网址：</p><ul><li><a href="https://www.runoob.com/markdown">Markdown 菜鸟教程</a></li><li><a href="https://hexo.fluid-dev.com/docs/start/">Hexo Fluid 用户手册</a></li><li><a href="https://blog.zhheo.com/p/128998ac.html">Hexo 错误：spawn failed 的解决方法</a></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Record</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2023/05/30/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2023/05/30/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
